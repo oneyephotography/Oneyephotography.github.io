@@ -190,12 +190,12 @@
                 width: 10px;
                 left: 0;
                 top: 0;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #NA:hover:before {
                 width: 3vw;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #EU:before {
@@ -206,12 +206,12 @@
                 width: 10px;
                 left: 0;
                 top: 0;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #EU:hover:before {
                 width: 3vw;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #AF:before {
@@ -222,12 +222,12 @@
                 width: 10px;
                 left: 0;
                 top: 0;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #AF:hover:before {
                 width: 3vw;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #AB:before {
@@ -238,12 +238,12 @@
                 width: 10px;
                 left: 0;
                 top: 0;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #AB:hover:before {
                 width: 3vw;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #SP:before {
@@ -254,12 +254,12 @@
                 width: 10px;
                 right: 0;
                 top: 0;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             #SP:hover:before {
                 width: 3vw;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             .TN-name {
@@ -275,7 +275,7 @@
             .gray {
                 filter: gray;
                 -webkit-filter: grayscale(100%);
-                -webkit-transition: all 300ms ease-in-out;
+                -webkit-transition: all 300ms ease-in;
                 -webkit-backface-visibility: hidden;
                 opacity: .54;
             }
@@ -284,7 +284,7 @@
                 filter: none;
                 -webkit-filter: grayscale(0%);
                 opacity: 1;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             .contact {
@@ -317,7 +317,7 @@
             
             .contact .HD-name:hover {
                 color: #fff;
-                transition: all 300ms ease-in-out;
+                transition: all 300ms ease-in;
             }
             
             @media only screen and (min-width: 1600px) {
